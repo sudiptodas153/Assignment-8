@@ -1,0 +1,162 @@
+[
+    {
+      "bookId": "9780451524935",
+      "bookName": "1984",
+      "author": "George Orwell",
+      "image": "https://i.ibb.co/8YWC6GK/1984.webp",
+      "review": "George Orwell's 1984 is a haunting and prophetic vision of a dystopian society where totalitarianism reigns supreme. Written in 1949, Orwell's novel remains shockingly relevant, offering a chilling commentary on the dangers of unchecked government power and the erosion of individual freedom. One of the most striking aspects of 1984 is its portrayal of the psychological manipulation and surveillance tactics employed by the Party. Orwell's depiction of the Thought Police, who monitor citizens for any signs of dissent or independent thought, is particularly chilling. The constant fear of being watched and the pervasiveness of propaganda create a climate of paranoia and mistrust, where even the most private thoughts are not safe from scrutiny.",
+      "totalPages": 328,
+      "rating": 4.7,
+      "category": "Science Fiction",
+      "tags": ["Dystopian", "Political", "Classic"],
+      "publisher": "Signet Classics",
+      "yearOfPublishing": 1949
+    },
+    {
+      "bookId": "9780061120084",
+      "bookName": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "image": "https://i.ibb.co/rHjBsmJ/To-Kill-a-Mockingbird-removebg-preview.png",
+      "review": "Harper Lee's To Kill a Mockingbird is a literary masterpiece that explores themes of racial injustice, moral growth, and the complexities of human nature. Set in the fictional town of Maycomb, Alabama, during the 1930s, the novel follows the Finch family, particularly young Scout Finch, her brother Jem, and their father, Atticus Finch. At the heart of the story is Atticus Finch's defense of Tom Robinson, a black man wrongly accused of raping a white woman. Through the trial, Lee vividly portrays the deep-seated racism and prejudice prevalent in Southern society at the time. Atticus's unwavering commitment to justice and his belief in the inherent dignity of all people serve as a powerful moral compass, challenging both his children and readers to confront their own prejudices.",
+      "totalPages": 336,
+      "rating": 4.8,
+      "category": "Fiction",
+      "tags": ["Classic", "Coming-of-age", "Legal Drama"],
+      "publisher": "Harper Perennial Modern Classics",
+      "yearOfPublishing": 1960
+    },
+    {
+      "bookId": "9780141439600",
+      "bookName": "Jane Eyre",
+      "author": "Charlotte Brontë",
+      "image": "https://i.ibb.co/qBDL0mZ/71-Yf-AAi-PYp-S-AC-UF894-1000-QL80.jpg",
+      "review": "At the heart of the story is Jane's quest for independence and autonomy in a society that seeks to confine and suppress her. Orphaned at a young age and raised by cruel relatives, Jane faces adversity at every turn. However, her fierce intellect, resilience, and moral integrity enable her to overcome the obstacles in her path. At its core, Jane Eyre is a story about love – romantic love, yes, but also love of self, of justice, and of truth. The relationship between Jane and Mr. Rochester is both passionate and fraught with tension, as they navigate issues of class, gender, and morality. Yet, it is ultimately Jane's journey towards self-acceptance and self-respect that forms the emotional heart of the novel.",
+      "totalPages": 624,
+      "rating": 4.5,
+      "category": "Classic Literature",
+      "tags": ["Romance", "Gothic", "Victorian"],
+      "publisher": "Penguin Classics",
+      "yearOfPublishing": 1847
+    },
+    {
+      "bookId": "9780743273565",
+      "bookName": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "image": "https://i.ibb.co/s1h9x58/The-Great-Gatsby.jpg",
+      "review": "The characters in The Great Gatsby are complex and multi-dimensional, each representing different aspects of the American Dream. From the ambitious Gatsby to the cynical Tom Buchanan and the idealistic Nick Carraway, Fitzgerald creates a cast of characters that are both captivating and flawed. In conclusion, The Great Gatsby is a masterpiece of American literature that continues to resonate with readers today. Its exploration of themes such as love, ambition, and the pursuit of happiness transcends its time and place, making it a timeless and enduring work. F. Scott Fitzgerald's poignant portrayal of the Jazz Age serves as a poignant reminder of the fleeting nature of success and the enduring power of the human spirit.",
+      "totalPages": 180,
+      "rating": 4.6,
+      "category": "Fiction",
+      "tags": ["Classic", "Romance", "American Literature"],
+      "publisher": "Scribner",
+      "yearOfPublishing": 1925
+    },
+    {
+      "bookId": "9780062315007",
+      "bookName": "Gone Girl",
+      "author": "Gillian Flynn",
+      "image": "https://i.ibb.co/tsHt5hq/Gone-Girl-removebg-preview.png",
+      "review": "The story revolves around the sudden disappearance of Amy Dunne on her fifth wedding anniversary, and the subsequent media frenzy and police investigation that ensue. As the search for Amy intensifies, suspicions fall on her husband, Nick, whose behavior becomes increasingly erratic under the scrutiny of the public eye. What sets Gone Girl apart from other thrillers is its complex and morally ambiguous characters. Amy and Nick are both deeply flawed individuals, each with their own secrets and motivations. As the story unfolds, it becomes increasingly difficult to discern who is the victim and who is the villain, blurring the lines between right and wrong",
+      "totalPages": 432,
+      "rating": 4.2,
+      "category": "Mystery",
+      "tags": ["Suspense", "Domestic Thriller", "Psychological"],
+      "publisher": "Broadway Books",
+      "yearOfPublishing": 2012
+    },
+    {
+      "bookId": "9780385319959",
+      "bookName": "The Shining",
+      "author": "Stephen King",
+      "image": "https://i.ibb.co/w4PgdXm/The-Shining.webp",
+      "review": "The novel is also notable for its portrayal of psychic abilities, particularly in the character of Danny, who possesses the Shining – a psychic gift that allows him to see into the past and future. Through Danny's experiences, King explores the limits of human perception and the thin veil that separates the world of the living from the realm of the dead. In conclusion, The Shining is a tour de force of terror that continues to captivate and terrify readers with its unforgettable characters, atmospheric setting, and spine-tingling suspense. Stephen King's ability to tap into our deepest fears and darkest impulses makes The Shining a timeless classic of horror fiction that will continue to chill readers to the bone for generations to come.",
+      "totalPages": 447,
+      "rating": 4.4,
+      "category": "Horror",
+      "tags": ["Supernatural", "Haunted House"],
+      "publisher": "Anchor Books",
+      "yearOfPublishing": 1977
+    },
+    {
+      "bookId": "9780062073488",
+      "bookName": "The Hunger Games",
+      "author": "Suzanne Collins",
+      "image": "https://i.ibb.co/VYktVWB/The-Hunger-Games.jpg",
+      "review": "Suzanne Collins' The Hunger Games is a riveting dystopian novel that captivates readers with its thrilling action, thought-provoking themes, and compelling characters. Set in a post-apocalyptic world where society is divided into districts ruled by a tyrannical Capitol, the novel follows the story of Katniss Everdeen, a courageous young woman who becomes a symbol of rebellion against the oppressive regime. Central to the novel's success are its memorable characters, particularly Katniss herself, whose strength, resilience, and vulnerability make her a compelling protagonist. From the enigmatic Peeta Mellark to the cunning Haymitch Abernathy, each character is fleshed out with depth and complexity, adding layers of intrigue to the narrative.",
+      "totalPages": 384,
+      "rating": 4.6,
+      "category": "Young Adult",
+      "tags": ["Dystopian", "Action", "Survival"],
+      "publisher": "Scholastic Press",
+      "yearOfPublishing": 2008
+    },
+    {
+      "bookId": "9780375714832",
+      "bookName": "The Road",
+      "author": "Cormac McCarthy",
+      "image": "https://i.ibb.co/z43YJwD/The-Road.jpg",
+      "review": "At its core, The Road is a story about love, resilience, and the enduring bond between parent and child. As they travel southward in search of warmth and safety, the father and son encounter a series of horrors – cannibals, marauders, and the constant threat of starvation – yet they never lose hope or abandon their humanity. McCarthy's prose is spare and unflinching, capturing the stark beauty and brutality of the landscape with poetic precision. His use of language is minimalist yet evocative, conveying the characters' emotions and the desolation of their surroundings with devastating effect.",
+      "totalPages": 287,
+      "rating": 4.3,
+      "category": "Fiction",
+      "tags": ["Post-apocalyptic", "Literary Fiction", "Survival"],
+      "publisher": "Vintage Books",
+      "yearOfPublishing": 2006
+    },
+    {
+      "bookId": "9780553382563",
+      "bookName": "The Da Vinci Code",
+      "author": "Dan Brown",
+      "image": "https://i.ibb.co/tq0XSr1/The-Da-Vinci-Code.jpg",
+      "review": "At the heart of the story is the mystery surrounding the death of Jacques Saunière, the curator of the Louvre Museum in Paris, who leaves behind a trail of cryptic symbols and clues that lead Langdon and Neveu on a race against time to uncover the truth. Along the way, they encounter secret societies, ancient codes, and hidden messages concealed within works of art by Leonardo da Vinci. Brown's writing is fast-paced and suspenseful, with short chapters and cliffhanger endings that keep readers eagerly turning the pages. His meticulous research and attention to detail lend the novel an air of authenticity, blurring the lines between fact and fiction and immersing readers in a world of intrigue and mystery.",
+      "totalPages": 592,
+      "rating": 4.1,
+      "category": "Thriller",
+      "tags": ["Conspiracy", "Mystery", "Religious"],
+      "publisher": "Anchor Books",
+      "yearOfPublishing": 2003
+    },
+    {
+      "bookId": "9780061121084",
+      "bookName": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "image": "https://i.ibb.co/xXmpsww/1-removebg-preview.png",
+      "review": "Narrated by Holden himself, the novel takes readers on a journey through his experiences in New York City after being expelled from his boarding school. As he navigates the city streets, Holden grapples with feelings of alienation, disillusionment, and a longing for authenticity in a world he sees as superficial and corrupt. Salinger's prose is deceptively simple yet brimming with emotional depth and insight. Through Holden's eyes, he explores themes of innocence and experience, loss of innocence, and the transition from childhood to adulthood. The novel's iconic opening line.",
+      "totalPages": 277,
+      "rating": 4.0,
+      "category": "Fiction",
+      "tags": ["Coming-of-age", "Alienation", "Teen"],
+      "publisher": "Little, Brown and Company",
+      "yearOfPublishing": 1951
+    },
+    {
+      "bookId": "9780307474278",
+      "bookName": "The Girl on the Train",
+      "author": "Paula Hawkins",
+      "image": "https://i.ibb.co/pdythVw/2.webp",
+      "review": "Hawkins' narrative is expertly crafted, with multiple perspectives and timelines that keep the reader guessing until the very end. The novel is filled with twists and turns, red herrings, and unreliable narrators, creating a sense of unease and tension that builds with each page. The pacing of The Girl on the Train is relentless, with short, punchy chapters that propel the story forward at breakneck speed. Hawkins' prose is sharp and evocative, painting a vivid portrait of suburban London and the claustrophobic atmosphere of the train.",
+      "totalPages": 336,
+      "rating": 4.2,
+      "category": "Mystery",
+      "tags": ["Suspense", "Psychological"],
+      "publisher": "Riverhead Books",
+      "yearOfPublishing": 2015
+    },
+    
+    {
+      "bookId": "9780140283334",
+      "bookName": "Life of Pi",
+      "author": "Yann Martel",
+      "image": "https://i.ibb.co/MVM1hVf/4-removebg-preview.png",
+      "review": "Martel's prose is lyrical and evocative, with vivid descriptions that bring the oceanic setting to life. His characters are richly drawn and multi-dimensional, from the enigmatic Pi himself to the fearsome Richard Parker, whose presence looms large over the narrative. At its core, Life of Pi is a meditation on faith, resilience, and the nature of truth. As Pi struggles to survive in the vast expanse of the ocean, he draws upon his knowledge of zoology, his faith in God, and his own inner strength to overcome seemingly insurmountable obstacles.",
+      "totalPages": 336,
+      "rating": 4.4,
+      "category": "Adventure",
+      "tags": ["Survival", "Spirituality", "Adventure"],
+      "publisher": "Alfred A. Knopf",
+      "yearOfPublishing": 2001
+    }
+    
+    
+  ]
+  
